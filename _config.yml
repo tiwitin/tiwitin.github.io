@@ -68,4 +68,4 @@ defaults:
     values:
       permalink: ""
 
-exclude: [CNAME, Gemfile, Gemfile.lock, README.md, LICENCE, freelancer-theme-jekyll.gemspec, Rakefile]
+exclude: [CNAME, Gemfile, Gemfile.lock, README.md, LICENSE, freelancer-theme-jekyll.gemspec, Rakefile]
