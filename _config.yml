@@ -67,3 +67,5 @@ defaults:
       type: "posts"
     values:
       permalink: ""
+
+exclude: [CNAME, Gemfile, Gemfile.lock, README.md, LICENCE, freelancer-theme-jekyll.gemspec, Rakefile]
